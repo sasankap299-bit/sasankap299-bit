@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasankap299-bit" alt="sasankap299-bit" /></a> </p>
 
-- 🔭 I’m currently wElectronics hardware projects and embedded systems developmentorking on [Electronics Projects Repository](https://github.com/sasankap299-bit/electronics-projects)
+- 🔭 I’m currently working on Electronics hardware projects and embedded systems developmentorking on🔭 I’m currently wElectronics hardware projects and embedded systems development [Electronics Projects Repository](https://github.com/sasankap299-bit/electronics-projects)
 
 - 📫 How to reach me **sasankap299@gmail.com**
 
@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/sasanka-shanpriya-perera-974246195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sasanka-shanpriya-perera-974246195/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/sasank.perera.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/sasank.perera.7/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_.luci_f_e_r._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.luci_f_e_r._/" height="30" width="40" /></a>
 </p>
 
