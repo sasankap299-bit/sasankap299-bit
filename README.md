@@ -2,35 +2,52 @@
 <h3 align="center">Electrical & Electronic Engineer | Embedded Systems | Electronics Design | Automation | Product Designer</h3>
 
 <p align="center">
-Passionate about building real-world electronics solutions, embedded systems, and hardware-software integrated projects.
+Passionate about building real-world electronics solutions, embedded systems, and hardware–software integrated engineering systems.
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **Electronics hardware and embedded systems projects**
-- 🛠 Building practical engineering solutions using **Arduino, Python, and circuit design**
-- 🌱 Currently learning **Python, PCB Design, and Embedded Systems**
-- 🤝 Interested in collaborating on **electronics and embedded projects**
+
+- 🔭 Currently working on **electronics hardware projects and embedded systems development**
+- ⚡ Designing **real-world engineering prototypes and automation solutions**
+- 🌱 Currently learning **Python, PCB design, and embedded system development**
+- 🤝 Open to collaboration on **electronics, embedded systems, and automation projects**
 - ⚡ Fun fact: *I enjoy turning engineering ideas into real working prototypes.*
 
 ---
 
+### 🔬 Engineering Interests
+
+- Embedded Systems  
+- Power Electronics  
+- Battery Management Systems  
+- Hardware Product Development  
+- Automation Systems  
+- Energy Storage Technologies  
+
+---
+
 ### 📂 Current Project
+
 🔧 **Electronics Projects Repository**  
 https://github.com/sasankap299-bit/electronics-projects
 
 ---
 
 ### 📫 Contact
+
 📧 Email: **sasankap299@gmail.com**  
+
 💼 LinkedIn:  
 https://www.linkedin.com/in/sasanka-shanpriya-perera-974246195/
 
 ---
 
 ### 🌐 Connect With Me
+
 <p align="left">
+
 <a href="https://www.linkedin.com/in/sasanka-shanpriya-perera-974246195/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
@@ -38,11 +55,13 @@ https://www.linkedin.com/in/sasanka-shanpriya-perera-974246195/
 <a href="https://www.instagram.com/_.luci_f_e_r._/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
 </a>
+
 </p>
 
 ---
 
 ### 🛠 Languages and Tools
+
 <p align="left">
 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
