@@ -1,15 +1,24 @@
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=sasankap299-bit&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-<h1 align="center">Hi 👋, I'm Sasanka Shanpriya Perera</h1>
-<h3 align="center">Electrical & Electronic Engineer | Embedded Systems | Electronics Design | Automation | Product Designer</h3>
-<p align="left">
-<img src="https://github.com/sasankap299-bit.png" width="180"/>
-</p>
+<table>
+<tr>
+<td width="220">
+
+<img src="https://github.com/sasankap299-bit.png" width="200"/>
+
+</td>
+
+<td>
+
+<h1>Hi 👋, I'm Sasanka Shanpriya Perera</h1>
+
+<strong>Electrical & Electronic Engineer | Embedded Systems | Electronics Design | Automation | Product Designer</strong>
+
+<br><br>
 
 Passionate about building real-world electronics solutions, embedded systems, and hardware–software integrated engineering systems.
-</p>
 
+</td>
+</tr>
+</table>
 ---
 
 ### 🚀 About Me
