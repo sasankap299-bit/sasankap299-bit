@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sasanka Shanpriya Perera</h1>
-<h3 align="center">Electrical & Electronic Engineer | Embedded Systems | Electronics Design | Automation | Product Designer</h3>
-
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=sasankap299-bit&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
+<h1 align="center">Hi 👋, I'm Sasanka Shanpriya Perera</h1>
+<h3 align="center">Electrical & Electronic Engineer | Embedded Systems | Electronics Design | Automation | Product Designer</h3>
 
 <p align="center">
 Passionate about building real-world electronics solutions, embedded systems, and hardware–software integrated engineering systems.
