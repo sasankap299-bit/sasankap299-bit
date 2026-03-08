@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://github.com/sasankap299-bit.png" width="180"/>
 </p>
-<p align="center">
+<p align="left corner">
 Passionate about building real-world electronics solutions, embedded systems, and hardware–software integrated engineering systems.
 </p>
 
