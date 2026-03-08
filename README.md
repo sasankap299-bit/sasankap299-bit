@@ -1,4 +1,4 @@
-<table>
+<table border="0">
 <tr>
 <td width="220">
 <img src="https://github.com/sasankap299-bit.png" width="200"/>
