@@ -3,7 +3,9 @@
 </p>
 <h1 align="center">Hi 👋, I'm Sasanka Shanpriya Perera</h1>
 <h3 align="center">Electrical & Electronic Engineer | Embedded Systems | Electronics Design | Automation | Product Designer</h3>
-
+<p align="center">
+<img src="YOUR_IMAGE_LINK_HERE" width="200"/>
+</p>
 <p align="center">
 Passionate about building real-world electronics solutions, embedded systems, and hardware–software integrated engineering systems.
 </p>
