@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sasanka Shanpriya Perera</h1>
 <h3 align="center">Electrical & Electronic Engineer | Embedded Systems | Electronics Design | Automation | Product Designer</h3>
 
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=sasankap299-bit&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
 <p align="center">
 Passionate about building real-world electronics solutions, embedded systems, and hardware–software integrated engineering systems.
 </p>
@@ -37,7 +41,7 @@ https://github.com/sasankap299-bit/electronics-projects
 
 ### 📫 Contact
 
-📧 Email: **sasankap299@gmail.com**  
+📧 Email: **sasankap299@gmail.com**
 
 💼 LinkedIn:  
 https://www.linkedin.com/in/sasanka-shanpriya-perera-974246195/
@@ -73,24 +77,4 @@ https://www.linkedin.com/in/sasanka-shanpriya-perera-974246195/
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
 
-</p>
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sasankap299-bit&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasankap299-bit&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-### 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sasankap299-bit&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
